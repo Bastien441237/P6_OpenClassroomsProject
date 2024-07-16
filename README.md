@@ -49,7 +49,7 @@ Pour réentraîner ou optimiser le modèle personnalisé, exécutez le notebook 
 Pour réentraîner ou optimiser les modèles pré-entraîner avec ou sans Transfer Learning, exécutez le notebook `Moreno_Bastien_3_notebook_model_transfer_learning_032024.ipynb`.
 
 ### Démonstration avec Streamlit
-Pour exécuter l'application Streamlit, utilisez l'API Backend : `Moreno_Bastien_4_programme_prediction_032024.py`.
+Pour exécuter l'application Streamlit, utilisez l'API Flask Backend : `Moreno_Bastien_4_programme_prediction_032024.py`.
 
 ```
 python Moreno_Bastien_4_programme_prediction_032024.py
