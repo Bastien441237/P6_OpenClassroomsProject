@@ -37,24 +37,25 @@ Vous êtes bénévole pour l'association Le Refuge et souhaitez les aider à cla
 ├── xception_model.h5                                                   # Modèle Xception
 ├── README.md                                                           # Ce fichier
 ```
+
 ## 🧑‍💻 Utilisation
 ### Prétraitement des Images
-Pour prétraiter les images, exécutez le notebook Moreno_Bastien_1_notebook_pretraitement_032024.ipynb.
+Pour prétraiter les images, exécutez le notebook `Moreno_Bastien_1_notebook_pretraitement_032024.ipynb`.
 
 ### Entraînement du modèle CNN personnalisé
-Pour réentraîner ou optimiser le modèle personnalisé, exécutez le Notebook Moreno_Bastien_2_notebook_model_perso_032024.ipynb.
+Pour réentraîner ou optimiser le modèle personnalisé, exécutez le notebook `Moreno_Bastien_2_notebook_model_perso_032024.ipynb`.
 
 ### Entraînement avec Transfer Learning
-Pour réentraîner ou optimiser les modèles pré-entraîner avec ou sans Transfer Learning, exécutez le Moreno_Bastien_3_notebook_model_transfer_learning_032024.ipynb.
+Pour réentraîner ou optimiser les modèles pré-entraîner avec ou sans Transfer Learning, exécutez le notebook `Moreno_Bastien_3_notebook_model_transfer_learning_032024.ipynb`.
 
 ### Démonstration avec Streamlit
-Pour exécuter l'application Streamlit, utilisez l'API Backend : Moreno_Bastien_4_programme_prediction_032024.py.
+Pour exécuter l'application Streamlit, utilisez l'API Backend : `Moreno_Bastien_4_programme_prediction_032024.py`.
 
 ```
 python Moreno_Bastien_4_programme_prediction_032024.py
 ```
 
-Puis exécutez Moreno_Bastien_5_programme_prediction_032024.py.
+Puis exécutez `Moreno_Bastien_5_programme_prediction_032024.py`.
 
 ```
 streamlit run Moreno_Bastien_5_programme_prediction_032024.py
